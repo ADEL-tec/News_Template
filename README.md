@@ -6,8 +6,8 @@ This repository contains a Flutter and Dart-based mobile app project for a News 
 
 | Onboarding Screen | Home Screen | Reading Article Screen |
 |:-----------------:|:-----------:|:----------------------:|
-| ![Onboarding Screen](screenshots/1.png) | ![Home Screen](screenshots/2.png) | ![Reading Article Screen](screenshots/4.png) |
-|                                         | ![Home Screen](screenshots/3.png) |
+| ![Onboarding Screen](assets/screenshot/1.png) | ![Home Screen](assets/screenshot/2.png) | ![Reading Article Screen](assets/screenshot/4.png) |
+|                                         | ![Home Screen](assets/screenshot/3.png) |
 
 ## Screens
 
